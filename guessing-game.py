@@ -9,3 +9,5 @@ else:
     else:
         print("Too low")
 print("Game over!")
+print("Congratulaions")
+print("my voice")
