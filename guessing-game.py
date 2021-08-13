@@ -16,4 +16,4 @@ print("Game over!")
 greetings = "Congratulaions"
 text = "my voice" + "happy year"
 print(greetings, text)
-print("lokobox")
+print("lokobox box")
