@@ -13,7 +13,7 @@ while guess != secret:
         else:
             print("Too low")
 print("Game over!")
-print("Congratulaions")
-print("my voice")
-print("happy year")
+greetings = "Congratulaions"
+text = "my voice" + "happy year"
+print(greetings, text)
 
