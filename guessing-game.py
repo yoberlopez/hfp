@@ -15,3 +15,5 @@ while guess != secret:
 print("Game over!")
 print("Congratulaions")
 print("my voice")
+print("happy year")
+
