@@ -13,3 +13,4 @@ while guess != secret:
         else:
             print("Too low")
 print("image or not?")
+print("i don't know")
