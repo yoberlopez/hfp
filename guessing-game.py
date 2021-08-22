@@ -12,3 +12,4 @@ while guess != secret:
             print("Too high")
         else:
             print("Too low")
+print("image or not?")
