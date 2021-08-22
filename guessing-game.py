@@ -12,8 +12,4 @@ while guess != secret:
             print("Too high")
         else:
             print("Too low")
-print("Game over!")
-greetings = "Congratulaions"
-text = "my voice" + "happy year"
-print(greetings, text)
-print("lokobox box box")
+print("Game over!,  Try Again")
